@@ -13,8 +13,6 @@ The dataset represents 10 years (1999-2008) of diabetic clinical care at 130 US 
 <img width="539" alt="image" src="https://user-images.githubusercontent.com/71331819/144637542-d4485473-6817-4cc8-9f53-5b806b81c17a.png">
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/71331819/144637981-137dee8a-490d-43fd-9b98-72a909a710fd.png">
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/71331819/144638177-64274126-1417-4ee7-8da1-36d24a4186c9.png">
-![image](https://user-images.githubusercontent.com/95421790/144640140-ad0d8145-f960-4050-9675-6084814d1473.png)
-
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/71331819/144638270-99d1b26a-7d27-4646-acff-4486d733cd5b.png">
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/71331819/144638328-9758ac03-1a30-41f6-8eea-fb73941bb293.png">
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/71331819/144638379-a0308f61-de9a-4666-90b3-fc4b3485d107.png">
