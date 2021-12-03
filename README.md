@@ -1,11 +1,8 @@
-# IA2_HDV_Anisha_169
-Introduction
-The dataset represents 10 years (1999-2008) of diabetic clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria.
 # Tableau_Analysis_Diabetic_Dataset
 This project contains a tableau storyboard. It is an analysis of a data set taken from kaggle.
 ## Tableau - Diabetic Analysis
 The dataset represents 10 years (1999-2008) of diabetic clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria.
-<img width="616" alt="image" src="https://user-images.githubusercontent.com/71331819/144629994-d7161ade-fefb-402e-9c53-c8810b818529.png">
+# <img width="616" alt="image" src="https://user-images.githubusercontent.com/71331819/144629994-d7161ade-fefb-402e-9c53-c8810b818529.png">
 
 ## Introduction
 <img width="616" alt="image" src="https://user-images.githubusercontent.com/71331819/144636204-16060ba9-efe5-4cf3-a8fe-2bb4e7db36ef.png">
@@ -25,4 +22,3 @@ The dataset represents 10 years (1999-2008) of diabetic clinical care at 130 US 
 2. Anisha Sah
 ## Acknowledgement
 We would like to thanks Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
-
